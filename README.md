@@ -25,6 +25,7 @@ Please feel free to contact me on social media using the badges below.
 
 ### GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 <div >
+  
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielCFormiga&theme=transparent&bg_color=020b14&border_color=30A3DC&show_icons=true&icon_color=#e7eff9&title_color=#aabade&text_color=#e7eff9&hide_border=true)
   
   ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielCFormiga&layout=compact&bg_color=020b14&border_color=30A3DC&title_color=#aabade&text_color=e7eff9&hide_border=true)
