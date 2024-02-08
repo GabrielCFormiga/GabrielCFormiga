@@ -19,14 +19,17 @@
 Please feel free to contact me on social media using the badges below.
 
 <div>
+
 <a href = "gabriel.campfor@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 <a href="https://www.linkedin.com/in/gabrielcformiga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 ### GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 <div >
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielCFormiga&theme=transparent&bg_color=020b14&border_color=30A3DC&show_icons=true&icon_color=#e7eff9&title_color=#aabade&text_color=#e7eff9&hide_border=true)
+  <img height="180rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GabrielCFormiga&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
   
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielCFormiga&layout=compact&bg_color=020b14&border_color=30A3DC&title_color=#aabade&text_color=e7eff9&hide_border=true)
+  <img height="180em" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCFormiga&layout=compact&langs_count-16&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
+  
 </div>
